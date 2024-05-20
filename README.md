@@ -8,5 +8,5 @@ radius and sorts them from lowest to highest. After the sorting,
 the result is used to draw 'n' number of circles for the 'n' radius 
 given, of course in ascending order.
 
-Thus, circles with least or small radius's are drawn first before circles
+Thus, circles with least or small radi are drawn first before circles
 of large radiuses
